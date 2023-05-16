@@ -1,0 +1,13 @@
+body {
+    background-color: brown;
+    color: azure;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+img {
+    display: flex;
+    align-content: center;
+}
