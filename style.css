@@ -1,5 +1,5 @@
 body {
-    background-color: brown;
+    background-color:burlywood;
     color: azure;
 }
 
@@ -10,4 +10,23 @@ h1 {
 img {
     display: flex;
     align-content: center;
+}
+#info {
+    color:hotpink;
+    display: flex;
+    justify-content: flex-start;  
+}
+h2 {
+    color:hotpink;
+}
+.werk {
+    text-shadow: 2px 2px brown;
+}
+* { margin: 5px; padding: 5px; } 
+
+div li{
+    text-align: center;
+}
+div > li {
+    text-align: center;
 }
